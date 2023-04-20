@@ -4,8 +4,8 @@
 [Bb]uild/*
 [Bb]uild*
 
-zig-cache/*
-zig-out/*
+*zig-cache/*
+*zig-out/*
 
 *~
 *.autosave
